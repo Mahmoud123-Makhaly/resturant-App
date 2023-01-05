@@ -1,0 +1,56 @@
+.font{
+  font-family: 'Cairo', sans-serif;
+
+}
+.color-body{
+background-color: #f8f8f8;
+height:100vh;
+overflow: hidden;
+}
+.btn-style{
+  background-color: #fff!important;
+  color: #b45b35!important;
+  margin-right: 10px;
+  outline: 0!important;
+
+}
+.btn-style:hover{
+  background-color: #b45b35!important;
+  color: #fff!important;
+}
+.brand-color{
+  margin: 0;
+  color:#b45b35
+}
+.line{
+  display: block;
+  height: 2px;
+margin: auto;
+  background-color: #b45b35;
+  width: 100px;
+
+}
+
+.category-buttons{
+  padding-bottom: 40px;
+  
+}
+.category-buttons button{
+  background: #fff;
+  color: #b45b35;
+  border: 0;
+  border: 1px solid #b45b35;
+
+}
+.category-buttons button:hover{
+  background-color: #b45b35;
+border: 1px solid #b45b35;
+
+}
+p.card-price{
+  color:#b45b35
+}
+#focus:focus{
+  background-color: #b45b35;
+  color: #Fff;
+}
